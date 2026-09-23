@@ -70,7 +70,7 @@ export const Philosophy: React.FC<PhilosophyProps> = ({ onRouteChange }) => {
           <div className="lg:col-span-6 space-y-6">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl bg-[#EBE4D5] border border-[#DED5C5] aspect-[4/3] group">
               <img
-                src="/src/assets/images/sensory_space_calm_1790146030858.jpg"
+                src="/images/sensory_space_calm_1790146030858.jpg"
                 alt="Modern, serene pediatric occupational therapy sensory room with natural birch climbing structures and organic swings"
                 className="w-full h-full object-cover object-center filter saturate-[0.9] contrast-[1.03] transition-transform duration-700 group-hover:scale-[1.02]"
                 referrerPolicy="no-referrer"

@@ -37,7 +37,7 @@ export const AboutView: React.FC<AboutViewProps> = ({
           <div className="lg:col-span-5 space-y-6">
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-[#DED5C5] bg-[#F4EFE5] aspect-[3/4]">
               <img
-                src="/src/assets/images/dr_amanda_hero_1790147053721.jpg"
+                src="/images/dr_amanda_hero_1790147053721.jpg"
                 alt="Dr. Amanda Gretsch, OTD, OTR/L in her San Diego occupational therapy practice"
                 className="w-full h-full object-cover object-center filter saturate-[0.98]"
                 referrerPolicy="no-referrer"
@@ -211,7 +211,7 @@ export const AboutView: React.FC<AboutViewProps> = ({
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 pt-8">
           <div className="rounded-2xl overflow-hidden shadow-lg aspect-[4/3] bg-[#EBE4D5] border border-[#DED5C5]">
             <img
-              src="/src/assets/images/consultation_nook_1790146067426.jpg"
+              src="/images/consultation_nook_1790146067426.jpg"
               alt="Cozy, warm consultation nook in Dr. Amanda's practice"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
@@ -219,7 +219,7 @@ export const AboutView: React.FC<AboutViewProps> = ({
           </div>
           <div className="rounded-2xl overflow-hidden shadow-lg aspect-[4/3] bg-[#EBE4D5] border border-[#DED5C5]">
             <img
-              src="/src/assets/images/sensory_space_calm_1790146030858.jpg"
+              src="/images/sensory_space_calm_1790146030858.jpg"
               alt="Sensory regulation studio with natural birch climbing elements"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"

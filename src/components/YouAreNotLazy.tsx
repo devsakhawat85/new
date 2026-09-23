@@ -131,7 +131,7 @@ export const YouAreNotLazy: React.FC = () => {
           <div className="lg:col-span-5 relative space-y-6">
             <div className="relative rounded-2xl overflow-hidden shadow-xl aspect-[4/3] bg-[#EBE4D5] border border-white">
               <img
-                src="/src/assets/images/tactile_hands_play_1790146055032.jpg"
+                src="/images/tactile_hands_play_1790146055032.jpg"
                 alt="Close-up hands gently arranging smooth natural wooden balancing stones"
                 className="w-full h-full object-cover object-center filter contrast-[1.03]"
                 referrerPolicy="no-referrer"

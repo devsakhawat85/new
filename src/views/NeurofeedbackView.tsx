@@ -92,7 +92,7 @@ export const NeurofeedbackView: React.FC<NeurofeedbackViewProps> = ({
             <div className="lg:col-span-5 relative">
               <div className="rounded-2xl overflow-hidden shadow-lg border border-white/20 aspect-[4/3] bg-[#173C36]">
                 <img
-                  src="/src/assets/images/neural_flow_calm_1790146046394.jpg"
+                  src="/images/neural_flow_calm_1790146046394.jpg"
                   alt="Abstract visualization of neural coherence and flowing brainwave balance"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"

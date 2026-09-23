@@ -42,7 +42,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'Enhanced physical confidence and coordination',
       'Reduced household friction during everyday routines'
     ],
-    image: '/src/assets/images/sensory_space_calm_1790146030858.jpg'
+    image: '/images/sensory_space_calm_1790146030858.jpg'
   },
   {
     id: 'neurofeedback',
@@ -66,7 +66,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'Faster recovery following sensory or emotional triggers',
       'Enhanced sleep architecture and calm wakefulness'
     ],
-    image: '/src/assets/images/neural_flow_calm_1790146046394.jpg'
+    image: '/images/neural_flow_calm_1790146046394.jpg'
   },
   {
     id: 'biofeedback',
@@ -90,7 +90,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'Measurable increases in vagal tone and heart coherence',
       'Practical grounding techniques for high-demand environments'
     ],
-    image: '/src/assets/images/consultation_nook_1790146067426.jpg'
+    image: '/images/consultation_nook_1790146067426.jpg'
   },
   {
     id: 'sensory-processing-support',
@@ -114,7 +114,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'Clear family language for sensory boundaries and needs',
       'Spaces and routines optimized for nervous system comfort'
     ],
-    image: '/src/assets/images/tactile_hands_play_1790146055032.jpg'
+    image: '/images/tactile_hands_play_1790146055032.jpg'
   },
   {
     id: 'attention-executive-function',
@@ -138,7 +138,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'Sustainable tools that foster intrinsic pride and autonomy',
       'Protection of self-esteem from the label of "careless"'
     ],
-    image: '/src/assets/images/consultation_nook_1790146067426.jpg'
+    image: '/images/consultation_nook_1790146067426.jpg'
   },
   {
     id: 'emotional-regulation',
@@ -162,7 +162,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'Shortened duration and intensity of emotional storms',
       'Deeper connection and mutual trust within family systems'
     ],
-    image: '/src/assets/images/dr_amanda_portrait_1790146014710.jpg'
+    image: '/images/dr_amanda_portrait_1790146014710.jpg'
   },
   {
     id: 'neurodevelopmental-support',
@@ -186,7 +186,7 @@ export const SERVICES_DATA: ServiceItem[] = [
       'Smoother motor control and midline integration',
       'Freed cognitive energy previously spent fighting baseline postural stress'
     ],
-    image: '/src/assets/images/sensory_space_calm_1790146030858.jpg'
+    image: '/images/sensory_space_calm_1790146030858.jpg'
   }
 ];
 
@@ -198,7 +198,7 @@ export const INSIGHT_ARTICLES: InsightArticle[] = [
     readTime: '5 min read',
     publishDate: 'Clinical Essay · 2026',
     excerpt: 'Your child held it together all day. The moment they cross the doorway at home, tears or explosions occur. This is not defiance — it is autonomic decompression.',
-    image: '/src/assets/images/sensory_space_calm_1790146030858.jpg',
+    image: '/images/sensory_space_calm_1790146030858.jpg',
     content: [
       'To an outside observer, the sudden shift makes no sense. The teacher reported an angelic, quiet day. Yet within twenty minutes of arriving home, shoes are thrown, tears fall over the wrong snack cup, or an intense fight erupts over homework.',
       'In occupational therapy and neuro-informed care, we recognize this phenomenon as "After-School Restraint Collapse" or autonomic decompression. During eight hours in the classroom, a child with sensory processing sensitivities or executive functioning differences spends enormous energy "masking" and compensating. They suppress fidgeting, endure fluorescent lighting buzzes, tolerate unpredictable cafeteria acoustics, and constantly inhibit impulses.',
@@ -218,7 +218,7 @@ export const INSIGHT_ARTICLES: InsightArticle[] = [
     readTime: '4 min read',
     publishDate: 'Educational Guide · 2026',
     excerpt: 'Sensory overload is rarely just hands clamped over ears. Often it masquerades as silliness, hyperactive giggling, running away, or sudden shut-down.',
-    image: '/src/assets/images/tactile_hands_play_1790146055032.jpg',
+    image: '/images/tactile_hands_play_1790146055032.jpg',
     content: [
       'Popular media often depicts sensory overload as an immediate sensory aversion: a child shielding their eyes, placing hands firmly over ears, or crying in a crowded supermarket aisle. While those are very real expressions, they are only one corner of the spectrum.',
       'For many neurodivergent individuals, sensory overload presents in stealth forms:',
@@ -241,7 +241,7 @@ export const INSIGHT_ARTICLES: InsightArticle[] = [
     readTime: '6 min read',
     publishDate: 'Clinical Philosophy · 2026',
     excerpt: 'You cannot talk a brain out of a state it was not talked into. Why physiological co-regulation is the prerequisite to all reasoning and learning.',
-    image: '/src/assets/images/consultation_nook_1790146067426.jpg',
+    image: '/images/consultation_nook_1790146067426.jpg',
     content: [
       'When a child or adult is in an activated fight-or-flight sympathetic arousal state, blood flow and glucose are physically prioritized in the amygdala and brainstem, diverting away from the prefrontal cortex — the seat of logic, consequence analysis, and verbal reasoning.',
       'Attempting to explain "why we shouldn’t do that" during the height of a tantrum or panic episode is neurologically ineffective. The ear muscles even shift tension during sympathetic activation, dampening high-frequency human voice tones and tuning in to low predator sounds.',
@@ -264,7 +264,7 @@ export const INSIGHT_ARTICLES: InsightArticle[] = [
     readTime: '5 min read',
     publishDate: 'Neurodevelopment · 2026',
     excerpt: 'ADHD is not a deficit of attention — it is a deficit of attention regulation. Understanding the relationship between dopamine, interest, and nervous system stimulation.',
-    image: '/src/assets/images/neural_flow_calm_1790146046394.jpg',
+    image: '/images/neural_flow_calm_1790146046394.jpg',
     content: [
       '"If they can sit and play Lego or video games for three straight hours, how can they have an attention deficit?" This is perhaps the most frequent and painful question parents bring into our practice.',
       'The reality is that ADHD is misnamed. It is not an absence of attention; it is an intrinsic neurochemical challenge with attention regulation and executive control. The ADHD brain lives in an environment of chronic dopamine baseline deficiency.',

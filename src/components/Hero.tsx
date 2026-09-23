@@ -88,7 +88,7 @@ export const Hero: React.FC<HeroProps> = ({
             {/* Primary Portrait Card */}
             <div className="relative rounded-2xl overflow-hidden shadow-2xl border border-[#FAF8F3] aspect-[3/4] bg-[#F4EFE5]">
               <img
-                src="/src/assets/images/dr_amanda_hero_1790147053721.jpg"
+                src="/images/dr_amanda_hero_1790147053721.jpg"
                 alt="Dr. Amanda Gretsch, Occupational Therapist and Neurofeedback Specialist, smiling warmly in navy suit with glasses"
                 className="w-full h-full object-cover object-center filter saturate-[0.98] contrast-[1.02] transition-transform duration-700 hover:scale-[1.02]"
                 referrerPolicy="no-referrer"
