@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Amanda Gretsch, OT | Occupational Therapy & Neuro-Informed Care",
+  "description": "Personalized occupational therapy and neuro-informed services focused on helping individuals better understand regulation, attention, sensory processing and everyday participation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
